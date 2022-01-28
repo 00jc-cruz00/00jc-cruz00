@@ -13,3 +13,9 @@
 00jc-cruz00/00jc-cruz00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+- And now some code:
+
+    // Code is just text indented a bit
+    which(is_easy) to_remember();
+
+~~~
