@@ -1,0 +1,3 @@
+github_process: .github/*
+workflows: .github/**/*
+labeler_update: .github/labeler.yml
