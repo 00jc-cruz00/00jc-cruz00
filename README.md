@@ -19,3 +19,19 @@ You can click the Preview link to take a look at your changes.
     which(is_easy) to_remember();
 
 ~~~
+
+
+## Building a better ssh experiance 
+
+### Generating an ssh key
+
+```
+ssh-keygen -o -a 100 -t ed25519 -f ~/.ssh/
+```
+
+Note: comments can be made with `-C "jc@studiojc.xyz"`
+Note: file names can be made with ` -f ~/.ssh/id_ed25519`
+
+```
+ssh-keygen -o -a 100 -t ed25519
+```
